@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["57J7J3738Y.com.valueinvestment.app"],
+        "components": [
+          {
+            "/": "/fastisslow-website/app/*",
+            "comment": "微信 OpenSDK 分享/回跳；官网是 GitHub Pages 项目站，实际路径带 /fastisslow-website 前缀"
+          },
+          {
+            "/": "/fastisslow-website/app/",
+            "comment": "裸路径，供 Universal Link 自检使用"
+          }
+        ]
+      }
+    ]
+  }
+}
